@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\views\\test\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\test\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\webapplication3\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\webapplication3\\models\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\views\\test\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\test\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\webapplication3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\webapplication3\\webapplication3\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DFF85E-6D24-4BB1-AF9C-2B735E625C05}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Test\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Test\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Test\\Details.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Test\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T11:36:40.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Test\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Test\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Test\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Test\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T11:28:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WebApplication3\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:00:18.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication3\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:56:51.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T10:55:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication3\\Global.asax.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:50:15.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Test\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Test\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Test\\AddProduct.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Test\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T10:40:13.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T10:38:33.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Models\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ProductDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Models\\ProductDAL.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ProductDAL.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:32:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:28:06.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Controllers\\TestController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA3wDgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:56:44.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication3\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\WebApplication3\\WebApplication3\\Web.config",
+              "RelativeToolTip": "WebApplication3\\Web.config",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-16T08:53:36.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
